@@ -4,7 +4,7 @@ Files for the Foredeck Union "Strong / Brave / Expendable" shirt. Inspired by th
 
 [<img src="foredeck_union.png" width="500">](foredeck_union.png)
 
-Feel free to use for your own shirts and things. Let me know what you come up with ([@coffeetocode](https://x.com/coffeetocode))! 
+Feel free to use for your own shirts and things. Let me know what you come up with ([@coffeetocode](https://x.com/coffeetocode))! If people just want me to stand up an Etsy shop so you can buy them easily, just holler; I'm happy to sell at cost. 
 
 Licensed under Creative Commons for non-commercial use, with attribution (see details below).
 
